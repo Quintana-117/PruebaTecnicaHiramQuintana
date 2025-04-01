@@ -1,14 +1,14 @@
 # PruebaTecnicaHiramQuintana
-prueba tribuco
-cd pruebatecnica_hiram_quintana
-flutter clean
-flutter pub get
+prueba tribuco //
+cd pruebatecnica_hiram_quintana // 
+flutter clean // 
+flutter pub get // 
 flutter upgrade //opcional
-flutter run
+flutter run // 
 
-Usuario = admin
-password = 1234
-
+Usuario = admin // 
+password = 1234 // 
+////////////////////////////////////////////////////////////////////
 📝 Descripción General
 Aplicación Flutter para gestionar notas personales con las siguientes características:
 
