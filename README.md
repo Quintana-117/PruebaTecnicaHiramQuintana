@@ -3,7 +3,7 @@ prueba tribuco //
 cd pruebatecnica_hiram_quintana // 
 flutter clean // 
 flutter pub get // 
-flutter upgrade //opcional
+flutter upgrade (opcional) //
 flutter run // 
 
 Usuario = admin // 
